@@ -1,0 +1,120 @@
+﻿生成启动时间为 2017/8/31 22:39:43。
+     1>项目“D:\ShapeSPH\SOFT1.0\SOFT1.0.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\SOFT1.0.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\SOFT1.0.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\dev_tools\VS2010\VC\bin\CL.exe /c /I"F:\fftw-3.3.5-dll32" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt cospmls.cpp csecond.cpp FFTcode.cpp fft_grids.cpp fft_grids_so3.cpp FST_semi_memo.cpp FST_semi_memo_fftw.cpp indextables.cpp makeWigner.cpp naive_synthesis.cpp newFCT.cpp oddweights.cpp OURmods.cpp OURperms.cpp permroots.cpp primitive.cpp primitive_FST.cpp rotate_so3.cpp rotate_so3_mem.cpp seminaive.cpp seminaive_fftw.cpp so3_correlate_fftw.cpp so3_correlate_sym.cpp soft.cpp soft_fftw.cpp soft_fftw_pc.cpp soft_fftw_wo.cpp soft_sym.cpp utils_so3.cpp utils_vec_cx.cpp weights.cpp wignerTransforms.cpp wignerTransforms_fftw.cpp wignerTransforms_sym.cpp
+         wignerTransforms_sym.cpp
+         wignerTransforms_fftw.cpp
+         wignerTransforms.cpp
+         weights.cpp
+         utils_vec_cx.cpp
+         utils_so3.cpp
+         soft_sym.cpp
+         soft_fftw_wo.cpp
+         soft_fftw_pc.cpp
+         soft_fftw.cpp
+         soft.cpp
+         so3_correlate_sym.cpp
+         so3_correlate_fftw.cpp
+         seminaive_fftw.cpp
+         seminaive.cpp
+         rotate_so3_mem.cpp
+         rotate_so3.cpp
+         primitive_FST.cpp
+         primitive.cpp
+     1>d:\shapesph\soft1.0\primitive.cpp(283): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\primitive.cpp(310): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\primitive.cpp(354): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\primitive.cpp(357): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\primitive.cpp(361): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+         permroots.cpp
+         正在生成代码...
+         正在编译...
+         OURperms.cpp
+         OURmods.cpp
+         oddweights.cpp
+         newFCT.cpp
+     1>d:\shapesph\soft1.0\newfct.cpp(389): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(477): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\soft1.0\newfct.cpp(501): warning C4018: “<=”: 有符号/无符号不匹配
+     1>d:\shapesph\soft1.0\newfct.cpp(503): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\soft1.0\newfct.cpp(574): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\soft1.0\newfct.cpp(612): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\soft1.0\newfct.cpp(614): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(636): warning C4018: “<=”: 有符号/无符号不匹配
+     1>d:\shapesph\soft1.0\newfct.cpp(638): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\soft1.0\newfct.cpp(647): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(650): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(662): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(663): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(707): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(709): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\soft1.0\newfct.cpp(1062): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(1300): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(1302): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(1321): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(1323): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(1359): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(1360): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(1361): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(1362): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(1391): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+     1>d:\shapesph\soft1.0\newfct.cpp(1392): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+         naive_synthesis.cpp
+         makeWigner.cpp
+         indextables.cpp
+         FST_semi_memo_fftw.cpp
+         FST_semi_memo.cpp
+         fft_grids_so3.cpp
+         fft_grids.cpp
+         FFTcode.cpp
+         csecond.cpp
+         cospmls.cpp
+         正在生成代码...
+       Lib:
+         E:\dev_tools\VS2010\VC\bin\Lib.exe /OUT:"D:\ShapeSPH\Debug\SOFT1.0.lib" /NOLOGO Debug\cospmls.obj
+         Debug\csecond.obj
+         Debug\FFTcode.obj
+         Debug\fft_grids.obj
+         Debug\fft_grids_so3.obj
+         Debug\FST_semi_memo.obj
+         Debug\FST_semi_memo_fftw.obj
+         Debug\indextables.obj
+         Debug\makeWigner.obj
+         Debug\naive_synthesis.obj
+         Debug\newFCT.obj
+         Debug\oddweights.obj
+         Debug\OURmods.obj
+         Debug\OURperms.obj
+         Debug\permroots.obj
+         Debug\primitive.obj
+         Debug\primitive_FST.obj
+         Debug\rotate_so3.obj
+         Debug\rotate_so3_mem.obj
+         Debug\seminaive.obj
+         Debug\seminaive_fftw.obj
+         Debug\so3_correlate_fftw.obj
+         Debug\so3_correlate_sym.obj
+         Debug\soft.obj
+         Debug\soft_fftw.obj
+         Debug\soft_fftw_pc.obj
+         Debug\soft_fftw_wo.obj
+         Debug\soft_sym.obj
+         Debug\utils_so3.obj
+         Debug\utils_vec_cx.obj
+         Debug\weights.obj
+         Debug\wignerTransforms.obj
+         Debug\wignerTransforms_fftw.obj
+         Debug\wignerTransforms_sym.obj
+         SOFT1.0.vcxproj -> D:\ShapeSPH\Debug\SOFT1.0.lib
+       FinalizeBuildStatus:
+         正在删除文件“Debug\SOFT1.0.unsuccessfulbuild”。
+         正在对“Debug\SOFT1.0.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\ShapeSPH\SOFT1.0\SOFT1.0.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.13

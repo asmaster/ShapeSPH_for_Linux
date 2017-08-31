@@ -1,0 +1,108 @@
+﻿生成启动时间为 2017/8/31 22:39:43。
+     1>项目“D:\ShapeSPH\Util\Util.vcxproj”在节点 3 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\Util.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\Util.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\dev_tools\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt PlyFile.cpp Util.cpp
+         Util.cpp
+     1>d:\shapesph\util\cmdlineparser.inl(222): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(238): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(241): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(243): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(259): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(295): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(317): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(347): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(375): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(386): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(394): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\util\cmdlineparser.inl(406): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(407): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(197) : 参见“strtok”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(413): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(414): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(197) : 参见“strtok”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(427): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(428): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(197) : 参见“strtok”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(433): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(434): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(197) : 参见“strtok”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(442): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\util\cmdlineparser.inl(648): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(651): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(657): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(664): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(673): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\util.h(43): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>d:\shapesph\util\util.h(54): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>d:\shapesph\util\util.cpp(45): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\sys\timeb.h(124) : 参见“_ftime64”的声明
+     1>d:\shapesph\util\util.cpp(59): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\shapesph\util\util.cpp(78): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\shapesph\util\util.cpp(96): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“vsprintf”的声明
+     1>d:\shapesph\util\util.cpp(114): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“vsprintf”的声明
+     1>d:\shapesph\util\util.cpp(124): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“vsprintf”的声明
+     1>e:\dev_tools\vs2010\vc\include\xutility(2227): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 e:\dev_tools\vs2010\vc\include\xutility(2212) : 参见“std::_Copy_impl”的声明
+                 d:\shapesph\util\cmdlineparser.inl(638): 参见对正在编译的函数 模板 实例化“_OutIt std::copy<std::_Vector_iterator<_Myvec>,char**>(_InIt,_InIt,_OutIt)”的引用
+                 with
+                 [
+                     _OutIt=char **,
+                     _Myvec=std::_Vector_val<char *,std::allocator<char *>>,
+                     _InIt=std::_Vector_iterator<std::_Vector_val<char *,std::allocator<char *>>>
+                 ]
+         PlyFile.cpp
+     1>d:\shapesph\util\plyfile.cpp(254): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\plyfile.cpp(257): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(110) : 参见“strcat”的声明
+     1>d:\shapesph\util\plyfile.cpp(261): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\shapesph\util\plyfile.cpp(877): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\plyfile.cpp(880): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(110) : 参见“strcat”的声明
+     1>d:\shapesph\util\plyfile.cpp(884): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+         正在生成代码...
+       Lib:
+         E:\dev_tools\VS2010\VC\bin\Lib.exe /OUT:"D:\ShapeSPH\Debug\Util.lib" /NOLOGO Debug\PlyFile.obj
+         Debug\Util.obj
+         Util.vcxproj -> D:\ShapeSPH\Debug\Util.lib
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Util.unsuccessfulbuild”。
+         正在对“Debug\Util.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\ShapeSPH\Util\Util.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.79

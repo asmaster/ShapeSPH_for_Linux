@@ -1,0 +1,277 @@
+﻿生成启动时间为 2017/8/31 22:39:45。
+     1>项目“D:\ShapeSPH\ShapeDesriptor\ShapeDescriptor.vcxproj”在节点 3 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\ShapeDescriptor.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\ShapeDescriptor.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\dev_tools\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ShapeDescriptor.cpp
+         ShapeDescriptor.cpp
+     1>d:\shapesph\util\cmdlineparser.inl(222): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(238): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(241): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(243): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(259): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(295): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(317): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(347): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(375): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(386): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(394): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\util\cmdlineparser.inl(406): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(407): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(197) : 参见“strtok”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(413): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(414): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(197) : 参见“strtok”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(427): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(428): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(197) : 参见“strtok”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(433): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(434): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(197) : 参见“strtok”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(442): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\util\cmdlineparser.inl(648): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(651): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(657): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(664): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>d:\shapesph\util\cmdlineparser.inl(673): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\shapesph\util\util.h(43): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>d:\shapesph\util\util.h(54): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\string.h(188) : 参见“strncpy”的声明
+     1>e:\dev_tools\vs2010\vc\include\xutility(2227): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+                 e:\dev_tools\vs2010\vc\include\xutility(2212) : 参见“std::_Copy_impl”的声明
+                 d:\shapesph\util\cmdlineparser.inl(638): 参见对正在编译的函数 模板 实例化“_OutIt std::copy<std::_Vector_iterator<_Myvec>,char**>(_InIt,_InIt,_OutIt)”的引用
+                 with
+                 [
+                     _OutIt=char **,
+                     _Myvec=std::_Vector_val<char *,std::allocator<char *>>,
+                     _InIt=std::_Vector_iterator<std::_Vector_val<char *,std::allocator<char *>>>
+                 ]
+     1>d:\shapesph\shapedesriptor\shapedescriptor.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(179): 参见对正在编译的函数 模板 实例化“int run<double>(void)”的引用
+     1>d:\shapesph\shapedesriptor\shapedescriptor.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\shapedesriptor\shapedescriptor.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\shapedesriptor\shapedescriptor.cpp(128): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\shapedesriptor\shapedescriptor.cpp(137): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\shapedesriptor\shapedescriptor.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(180): 参见对正在编译的函数 模板 实例化“int run<float>(void)”的引用
+     1>d:\shapesph\shapedesriptor\shapedescriptor.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\shapedesriptor\shapedescriptor.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\shapedesriptor\shapedescriptor.cpp(128): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\shapedesriptor\shapedescriptor.cpp(137): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\util\trianglemesh.h(143): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(90): 参见对正在编译的函数 模板 实例化“SquareMatrix<Real,Dim> GetAligningXForm<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &,Real,int)”的引用
+                 with
+                 [
+                     Real=double,
+                     Dim=4,
+                     _Ty=Point3D<double>
+                 ]
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(179): 参见对正在编译的函数 模板 实例化“int run<double>(void)”的引用
+     1>d:\shapesph\util\trianglemesh.h(160): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\util\trianglemesh.h(43): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(91): 参见对正在编译的函数 模板 实例化“void XForm<Real>(std::vector<_Ty> &,const SquareMatrix<Real,Dim> &,int)”的引用
+                 with
+                 [
+                     Real=double,
+                     _Ty=Point3D<double>,
+                     Dim=4
+                 ]
+     1>d:\shapesph\util\rasterizer.h(34): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(107): 参见对正在编译的函数 模板 实例化“void Rasterize<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &,CubeGrid<char> &,Real,int)”的引用
+                 with
+                 [
+                     Real=double,
+                     _Ty=Point3D<double>
+                 ]
+     1>d:\shapesph\util\signature.h(99): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(234) : 参见“fopen”的声明
+                 d:\shapesph\util\signature.h(98): 编译类 模板 成员函数“bool Signature<Real>::write(const char *,bool) const”时
+                 with
+                 [
+                     Real=double
+                 ]
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(136): 参见对正在编译的类 模板 实例化“Signature<Real>”的引用
+                 with
+                 [
+                     Real=double
+                 ]
+     1>d:\shapesph\util\signature.h(109): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\util\trianglemesh.h(143): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(90): 参见对正在编译的函数 模板 实例化“SquareMatrix<Real,Dim> GetAligningXForm<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &,Real,int)”的引用
+                 with
+                 [
+                     Real=float,
+                     Dim=4,
+                     _Ty=Point3D<float>
+                 ]
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(180): 参见对正在编译的函数 模板 实例化“int run<float>(void)”的引用
+     1>d:\shapesph\util\trianglemesh.h(160): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\shapesph\util\trianglemesh.h(43): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(91): 参见对正在编译的函数 模板 实例化“void XForm<Real>(std::vector<_Ty> &,const SquareMatrix<Real,Dim> &,int)”的引用
+                 with
+                 [
+                     Real=float,
+                     _Ty=Point3D<float>,
+                     Dim=4
+                 ]
+     1>d:\shapesph\util\rasterizer.h(34): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(107): 参见对正在编译的函数 模板 实例化“void Rasterize<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &,CubeGrid<char> &,Real,int)”的引用
+                 with
+                 [
+                     Real=float,
+                     _Ty=Point3D<float>
+                 ]
+     1>d:\shapesph\util\signature.h(109): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\util\signature.h(98): 编译类 模板 成员函数“bool Signature<Real>::write(const char *,bool) const”时
+                 with
+                 [
+                     Real=float
+                 ]
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(136): 参见对正在编译的类 模板 实例化“Signature<Real>”的引用
+                 with
+                 [
+                     Real=float
+                 ]
+     1>d:\shapesph\util\ply.inl(208): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(325) : 参见“sscanf”的声明
+                 d:\shapesph\util\ply.inl(655): 参见对正在编译的函数 模板 实例化“int PlyReadPolygons<PlyColorVertex<Real>>(char *,std::vector<_Ty> &,std::vector<std::vector<int>> &,PlyProperty *,bool *,int,int &,char ***,int *)”的引用
+                 with
+                 [
+                     Real=float,
+                     _Ty=PlyColorVertex<float>
+                 ]
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(87): 参见对正在编译的函数 模板 实例化“int PlyReadTriangles<PlyColorVertex<Real>>(char *,std::vector<_Ty> &,std::vector<TriangleIndex> &,PlyProperty *,bool *,int,int &,char ***,int *)”的引用
+                 with
+                 [
+                     Real=float,
+                     _Ty=PlyColorVertex<float>
+                 ]
+     1>d:\shapesph\util\ply.inl(209): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\dev_tools\vs2010\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\shapesph\util\trianglemesh.h(68): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\util\trianglemesh.h(140): 参见对正在编译的函数 模板 实例化“Point3D<Real> Center<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &)”的引用
+                 with
+                 [
+                     Real=double,
+                     _Ty=Point3D<double>
+                 ]
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(90): 参见对正在编译的函数 模板 实例化“SquareMatrix<Real,Dim> GetAligningXForm<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &,Real,int)”的引用
+                 with
+                 [
+                     Real=double,
+                     Dim=4,
+                     _Ty=Point3D<double>
+                 ]
+     1>d:\shapesph\util\trianglemesh.h(113): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\util\trianglemesh.h(142): 参见对正在编译的函数 模板 实例化“Real BoundingRadius<Real>(const std::vector<_Ty> &,Point3D<Real>)”的引用
+                 with
+                 [
+                     Real=double,
+                     _Ty=Point3D<double>
+                 ]
+     1>d:\shapesph\util\trianglemesh.h(104): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\util\trianglemesh.h(145): 参见对正在编译的函数 模板 实例化“SquareMatrix<Real,Dim> CovarianceMatrix<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &,Point3D<Real>)”的引用
+                 with
+                 [
+                     Real=double,
+                     Dim=3,
+                     _Ty=Point3D<double>
+                 ]
+     1>d:\shapesph\util\trianglemesh.h(68): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\util\trianglemesh.h(140): 参见对正在编译的函数 模板 实例化“Point3D<Real> Center<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &)”的引用
+                 with
+                 [
+                     Real=float,
+                     _Ty=Point3D<float>
+                 ]
+                 d:\shapesph\shapedesriptor\shapedescriptor.cpp(90): 参见对正在编译的函数 模板 实例化“SquareMatrix<Real,Dim> GetAligningXForm<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &,Real,int)”的引用
+                 with
+                 [
+                     Real=float,
+                     Dim=4,
+                     _Ty=Point3D<float>
+                 ]
+     1>d:\shapesph\util\trianglemesh.h(113): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\util\trianglemesh.h(142): 参见对正在编译的函数 模板 实例化“Real BoundingRadius<Real>(const std::vector<_Ty> &,Point3D<Real>)”的引用
+                 with
+                 [
+                     Real=float,
+                     _Ty=Point3D<float>
+                 ]
+     1>d:\shapesph\util\trianglemesh.h(104): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\util\trianglemesh.h(145): 参见对正在编译的函数 模板 实例化“SquareMatrix<Real,Dim> CovarianceMatrix<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &,Point3D<Real>)”的引用
+                 with
+                 [
+                     Real=float,
+                     Dim=3,
+                     _Ty=Point3D<float>
+                 ]
+     1>d:\shapesph\util\trianglemesh.h(56): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\util\trianglemesh.h(119): 参见对正在编译的函数 模板 实例化“Real Area<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &)”的引用
+                 with
+                 [
+                     Real=double,
+                     _Ty=Point3D<double>
+                 ]
+                 d:\shapesph\util\trianglemesh.h(166): 参见对正在编译的函数 模板 实例化“Real MomentRadius<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &,Point3D<Real>)”的引用
+                 with
+                 [
+                     Real=double,
+                     _Ty=Point3D<double>
+                 ]
+     1>d:\shapesph\util\trianglemesh.h(56): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\shapesph\util\trianglemesh.h(119): 参见对正在编译的函数 模板 实例化“Real Area<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &)”的引用
+                 with
+                 [
+                     Real=float,
+                     _Ty=Point3D<float>
+                 ]
+                 d:\shapesph\util\trianglemesh.h(166): 参见对正在编译的函数 模板 实例化“Real MomentRadius<Real>(const std::vector<_Ty> &,const std::vector<TriangleIndex> &,Point3D<Real>)”的引用
+                 with
+                 [
+                     Real=float,
+                     _Ty=Point3D<float>
+                 ]
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ShapeDescriptor.exe.embed.manifest.res" Debug\ShapeDescriptor_manifest.rc 
+       Link:
+         E:\dev_tools\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ShapeSPH\Debug\ShapeDescriptor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ShapeDescriptor.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ShapeSPH\Debug\ShapeDescriptor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ShapeSPH\Debug\ShapeDescriptor.lib" /MACHINE:X86 Debug\ShapeDescriptor.exe.embed.manifest.res
+         Debug\ShapeDescriptor.obj
+       Manifest:
+         正在删除文件“Debug\ShapeDescriptor.exe.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ShapeDescriptor.exe.embed.manifest" /manifest Debug\ShapeDescriptor.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ShapeDescriptor.exe.embed.manifest.res" Debug\ShapeDescriptor_manifest.rc 
+       LinkEmbedManifest:
+         E:\dev_tools\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ShapeSPH\Debug\ShapeDescriptor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ShapeDescriptor.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ShapeSPH\Debug\ShapeDescriptor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ShapeSPH\Debug\ShapeDescriptor.lib" /MACHINE:X86 Debug\ShapeDescriptor.exe.embed.manifest.res
+         Debug\ShapeDescriptor.obj
+         ShapeDescriptor.vcxproj -> D:\ShapeSPH\Debug\ShapeDescriptor.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ShapeDescriptor.unsuccessfulbuild”。
+         正在对“Debug\ShapeDescriptor.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\ShapeSPH\ShapeDesriptor\ShapeDescriptor.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.80
